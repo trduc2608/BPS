@@ -1,0 +1,11 @@
+ProductName,SupplierID,Quantity,UnitCost,InventoryLevel,OrderStatus
+WidgetA,101,100,5.00,500,Shipped
+WidgetB,102,50,10.00,250,Processing
+WidgetC,103,,0,1000,Shipped
+WidgetD,104,0,15.00,0,Backorder
+WidgetE,105,150,20.00,3000,Shipped
+WidgetF,106,300,25.00,7500,Shipped
+WidgetG,107,400,30.00,,Processing
+WidgetA,101,100,5.00,500,Shipped
+WidgetB,102,50,10.00,250,Processing
+WidgetC,103,,0,1000,Shipped
